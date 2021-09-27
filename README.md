@@ -7,5 +7,5 @@ This tutorial uses some specific packages to forecast weather (`pyowm`), paramet
 ```console
 conda create -n papermill-weather python=3.7
 conda activate papermill-weather
-pip install papermill pyowm jupyterlab pandas seaborn boto3 pdfkit ipykernel jupyterthemes
+pip install -r requirements.txt
 ```
