@@ -1,5 +1,3 @@
-# (PROJECT IN PROGRESS)
-
 # Details
 This repository is an updated version of [this](https://towardsdatascience.com/introduction-to-papermill-2c61f66bea30) tutorial on Towards Data Science (for September 2021) that produces a five-day temperature forecast for different cities. The following changes were made:
 > 1. Incorporates new API calls - the older ones no loger work.
